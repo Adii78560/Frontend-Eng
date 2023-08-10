@@ -1,0 +1,33 @@
+#class{
+    background-color: wheat;
+    text-size-adjust: 10em;
+    border: 120rem;
+    border-color: black,red,yellow,blue;
+    text-align: center;
+}
+.classes{
+    background-color: greenyellow;
+    text-size-adjust: 10em;
+    border: 120rem;
+    border-color: black,red,yellow,blue;
+    padding: auto;
+    text-align: center;
+    padding: 20%,30%,30%,20%;
+    width: 50%;
+    margin: 10%;
+}
+#body{
+    background-color: aqua;
+    margin: 10% 20% 20% 10%;
+}
+.body .button button{
+
+    size: 40%;
+    margin: 50%;
+    text-decoration: double;
+    border: 40%;
+    border-radius: 100%;
+    color: red;
+    background-color: black;
+    text-size-adjust: 40%;
+}

@@ -1,0 +1,67 @@
+*{background-color: pink;}
+#box{
+    background-color:blue;
+    color:aliceblue;
+}
+.heading{
+    color:red;
+    text-align:center;
+    text-decoration: black wavy underline;
+}
+button{
+    background-color: red;
+    font-size: xx-large;
+    border-radius: 50%;
+}
+#p1{
+    color: black;
+    text-align:center;
+    text-align: line-through;
+    font-size: xx-large;
+    font-family: cursive ;
+    text-transform: uppercase;
+}
+#p2{
+    color: red;
+    text-align:center;
+    text-align: line-throug h;
+    font-size: xx-large;
+    font-family: fantasy;
+    text-transform: uppercase;
+}
+
+#p3{
+    color: green;
+    text-align:center;
+    text-align: line-throug h;
+    font-size: xx-large;
+    font-family: monospace;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: red dotted underline;
+    color: black;
+    font-size: xx-large;
+}
+
+h1{
+    font-weight: normal;
+    text-align: center;
+
+}
+h2{
+    font-weight: bold;
+    text-align: center;
+
+}
+h3{
+    font-weight: 900;
+    text-align: center;
+
+}
+h4{
+    font-weight: lighter;
+    text-align: center;
+
+}
