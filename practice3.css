@@ -28,14 +28,19 @@ a{
 }
 #disp{
     background-color: #0f1111;
-    display: inline;
+    display: inline-block;
+    height: 70px;
+    padding-top: 40px;
+
 }
 #disp1{
+    padding-top: 40px;
+    height: 70px;
     background-color:#f08804;
-    display: inline;
+    display: inline-block;
     margin-left: 20px;
     padding-left: 20px;
     padding-right: 20px;
-    text-align: center;
+    /* text-align: center; */
 
 }
